@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = arthur.52@hotmail.fr
+	name = arthur lamothe
